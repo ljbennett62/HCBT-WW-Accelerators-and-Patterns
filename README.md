@@ -2,6 +2,8 @@
 
 ### This README contains the 2021 Partner Plays and related IBM Developer Content. This page will get updated as new content is either created or retired.
 
+**Note** The table was created using [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables#). Upload the [HCBT-table](./Docs/HCBT-table.tgn) file into the tool to make changes.
+
 
 | Play | Hyrbrid Cloud Build Team - Partner Plays                                                            | IBM Developer Content                                                                                                                                                                                                                                                      | Content Type                |
 |------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
