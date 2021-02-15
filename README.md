@@ -1,5 +1,8 @@
 # HCBT-WW-Accelerators-and-Patterns
 
+## This README contains the 2021 Partner Plays and related IBM Developer Content. This page will get updated as new content is either created or retired.
+
+
 | Play | Hyrbrid Cloud Build Team - Partner Plays                                                            | IBM Developer Content                                                                                                                                                                                                                                                      | Content Type                |
 |------|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 |      |                                                                                                     |                                                                                                                                                                                                                                                                            |                             |
